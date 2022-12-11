@@ -25,6 +25,9 @@ content = '''
 <h1>Top web developement frameworks</h1>
 <h2>1.Django</h2>
 <h2>2.MEAN Stack</h2>
+<h2>3.MERN Stack</h2>
+<h2>4.ASP.NET core</h2>
+<h2>5.Spring Framework</h2>
 </body>
 </html>
 '''
