@@ -44,6 +44,12 @@ httpd = HTTPServer(server_address, myserver)
 httpd.serve_forever()
 ~~~
 ## OUTPUT:
+### server side output:
+![Server side](./images/seversideoutput.png)
+
+### client side output:
+![Client side](./images/clientsideoutput.png)
 
 
 ## RESULT:
+Thus the webserver displays about top five web application development frameworks.
